@@ -1,5 +1,7 @@
 # text-base-emotion-recognition
-Text base emotion recognition is a project to build model that show emotions such as:
+
+3Sentiment Analysis of Text base emotion recognition
+### Text Classification
 > joy
 
 > sadness
@@ -16,4 +18,13 @@ Text base emotion recognition is a project to build model that show emotions suc
 
 > shame
 
-in sampled tweet
+### Exploration
+> Text Cleaning
+> Keyword Extraction
+> > Keyword for each emotion
+> > wordcloud (use to see the most commonest word for a particular or a particular emotion)
+### Machine Learning
+> Naive Bayes
+> LogisticRegression
+> KNN
+> Decission Tree
