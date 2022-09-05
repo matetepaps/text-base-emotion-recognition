@@ -16,4 +16,4 @@ Text base emotion recognition is a project to build model that show emotions suc
 
 > shame
 
-in samples tweet
+in sampled tweet
